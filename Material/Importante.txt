@@ -1,0 +1,57 @@
+﻿
+Teste: 
+	g++ -O2 -lm arquivofonte.cpp
+	lm - biblioteca "math"
+	O2 - Otimizar o código
+	
+String:
+	#include <string>
+	string str;
+	str.size();
+
+Pair:
+	#include <utility>
+	typedef pair<int, int> ii;
+	ii a;
+	ii b(0,0);
+	cin >> a.first >> a.second;
+	
+Vector:
+	#include <vector>
+	vector<int> vet;
+	vet.clear()			Limpa vetor
+	vet.push_back(x)	Adiciona x depois do final do vetor
+	vet.rezise(n)		Redimensiona para n posições
+	vet.size()			Tamanho do vetor
+	
+Queue - Fila:
+	#include <queue>
+	queue <int> fila;
+	fila.empty()	True se a fila esta vazia
+	fila.front()	Referencia do primeiro valor
+	fila.pop()		Remove o primeiro valor
+	fila.push(x)	Adiciona x no final
+	
+Stack - pilha:
+	#include <stack>
+	stack <int> pilha;
+	pilha.empty()	True se a pilha esta vazia
+	pilha.top()		Referencia do topo
+	pilha.pop()		Remove o topo
+	pilha.push(x)	Adiciona x no topo
+	
+Map:
+	#include <map>
+	map <string,int> mp;
+	int t = mp["oi"]; 	Se "oi" não existe ele passa a existir e t recebe 0
+	
+Sort:
+	#include <algorithm>
+
+	sort(vet.begin(),vet.end(),cmp)
+		bool cmp(int a, int b){return(a<b);} 	ordena de ordem crescente
+
+	int a[n];
+	sort(&a[0],&a[n]);
+
+	stable_sort(vet.begin(),vet.end(),cmp) 		igual ao sort mais mantem ordem relativa para variáveis de pesos iguais 
