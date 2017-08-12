@@ -1,6 +1,6 @@
 /****************************************************
 https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1008
-CordeiroLibel   Fevereiro/2017
+CordeiroLibel   2017
 Status: Testado e Terminado
 ****************************************************/
 

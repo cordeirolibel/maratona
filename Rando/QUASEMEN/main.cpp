@@ -1,7 +1,7 @@
 /****************************************************
 https://www.urionlinejudge.com.br/judge/pt/problems/view/1391
 CordeiroLibel   2017
-Status:
+Status: Testado e Terminado
 ****************************************************/
 #include <iostream>
 #include <vector>

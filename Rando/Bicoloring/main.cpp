@@ -1,6 +1,6 @@
 /****************************************************
 https://uva.onlinejudge.org/external/100/10004.pdf
-CordeiroLibel   fevereiro/2017
+CordeiroLibel   2017
 Status: Terminado e Testado
 ****************************************************/
 #include <iostream>

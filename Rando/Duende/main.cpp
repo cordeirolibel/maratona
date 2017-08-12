@@ -1,6 +1,6 @@
 /****************************************************
 http://br.spoj.com/problems/DUENDE/
-CordeiroLibel   fevereiro/2017
+CordeiroLibel   2017
 Status: Terminado e Testado
 ****************************************************/
 

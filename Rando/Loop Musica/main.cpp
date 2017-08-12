@@ -1,6 +1,6 @@
 /****************************************************
 http://br.spoj.com/problems/LOOPMUSI/
-CordeiroLibel   janeiro/2017
+CordeiroLibel   2017
 Status: Terminado e Testado
 ****************************************************/
 
