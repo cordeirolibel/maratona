@@ -1,6 +1,6 @@
 /****************************************************
 https://www.urionlinejudge.com.br/judge/en/problems/view/1928
-CordeiroLibel   outubro/2016
+CordeiroLibel   2016
 Status:
 ****************************************************/
 

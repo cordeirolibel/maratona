@@ -1,6 +1,6 @@
 /****************************************************
 https://www.urionlinejudge.com.br/judge/en/problems/view/1936
-CordeiroLibel   novembro/2016
+CordeiroLibel   2016
 Status: Terminado e Testado.
 ****************************************************/
 #include <iostream>

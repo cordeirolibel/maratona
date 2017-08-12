@@ -10,7 +10,6 @@ String:
 	str.size();
 
 Pair:
-	#include <utility>
 	typedef pair<int, int> ii;
 	ii a;
 	ii b(0,0);
@@ -29,8 +28,11 @@ Queue - Fila:
 	queue <int> fila;
 	fila.empty()	True se a fila esta vazia
 	fila.front()	Referencia do primeiro valor
-	fila.pop()		Remove o primeiro valor
+	fila.pop()	Remove o primeiro valor
 	fila.push(x)	Adiciona x no final
+	
+	priority_queue<ii,vector<ii>,greater<ii>> fila;
+	fila.top()	Pega o menor valor
 	
 Stack - pilha:
 	#include <stack>
